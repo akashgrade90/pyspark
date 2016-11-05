@@ -1,0 +1,7 @@
+Hello, This is a word count program.
+
+A word count program includes below requirnments:
+do not include , : or a . 
+
+
+also ignore the cases and also ignore any empty strigs

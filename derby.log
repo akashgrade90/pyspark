@@ -1,0 +1,52 @@
+----------------------------------------------------------------
+Sat Nov 05 10:14:45 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0158-32cd-9d10-000035f89c50 
+on database directory C:\Users\gradea\AppData\Local\Temp\spark-a5a39bff-814b-4280-8910-84ef8c08b4ae\metastore with class loader sun.misc.Launcher$AppClassLoader@10dea4e 
+Loaded from file:/C:/Users/gradea/Documents/Akash/Soft/spark1.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+user.dir=C:\Users\gradea\Desktop\MyCode
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 05 10:16:07 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance 0309c396-0158-32cd-9d10-000035f89c50 
+on database directory C:\Users\gradea\AppData\Local\Temp\spark-89bdee1d-ba03-4da6-b113-212ef97c15f8\metastore with class loader sun.misc.Launcher$AppClassLoader@10dea4e 
+Loaded from file:/C:/Users/gradea/Documents/Akash/Soft/spark1.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+user.dir=C:\Users\gradea\Desktop\MyCode
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 05 10:17:23 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance d7ae46d2-0158-32cd-9d10-000035f89c50 
+on database directory C:\Users\gradea\AppData\Local\Temp\spark-246b4955-be88-442f-9ea6-3eb5bc664676\metastore with class loader sun.misc.Launcher$AppClassLoader@10dea4e 
+Loaded from file:/C:/Users/gradea/Documents/Akash/Soft/spark1.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+user.dir=C:\Users\gradea\Desktop\MyCode
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Nov 05 10:20:00 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance 49d6ca0e-0158-32cd-9d10-000035f89c50 
+on database directory C:\Users\gradea\AppData\Local\Temp\spark-827faca3-7534-4933-9143-a3f457bacafe\metastore with class loader sun.misc.Launcher$AppClassLoader@10dea4e 
+Loaded from file:/C:/Users/gradea/Documents/Akash/Soft/spark1.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+user.dir=C:\Users\gradea\Desktop\MyCode
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
